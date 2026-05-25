@@ -28,7 +28,7 @@ The most concentrated cluster is then standardised and run through PCA across th
 
 ## Results
 
-[Add a screenshot of the HR diagram here — it's the most striking figure.]
+![Hertzsprung-Russell diagram of the 1,025 identified Pleiades cluster members, showing a clean main sequence from B-type giants through to the lower-mass end](figures/pleiades_hr_diagram.png)
 
 The pipeline outputs:
 - Pre- and post-filter proper-motion scatter plots
